@@ -22,7 +22,7 @@
                   <Image url="@../asset/images/icons8-bed-100%20(1).png" />
                </image>
             </ImageView>
-            <Label layoutX="117.0" layoutY="25.0" text="STAY EASE" textFill="WHITE">
+            <Label layoutX="117.0" layoutY="25.0" text="D24 Hostel" textFill="WHITE">
                <font>
                   <Font name="System Bold" size="22.0" />
                </font>

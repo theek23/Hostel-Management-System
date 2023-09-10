@@ -76,5 +76,20 @@
             <Image url="@../asset/images/modern-living-room-interior-with-sofa-green-plants-lamp-table-dark-wall-background-min.jpg" />
          </image>
       </ImageView>
+      <Label layoutX="808.0" layoutY="168.0" text="WELCOME" textFill="#ff4f4f">
+         <font>
+            <Font size="41.0" />
+         </font>
+      </Label>
+      <Label layoutX="878.0" layoutY="227.0" text="TO" textFill="#ff4f4f">
+         <font>
+            <Font size="41.0" />
+         </font>
+      </Label>
+      <Label layoutX="707.0" layoutY="351.0" text="D24 Hostel" textFill="#868cff">
+         <font>
+            <Font name="Bookman Old Style Bold" size="68.0" />
+         </font>
+      </Label>
    </children>
 </AnchorPane>
